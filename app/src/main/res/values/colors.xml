@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#9D5EF7</color>
+    <color name="colorPrimaryDark">#9557F6</color>
+    <color name="colorAccent">#F25822</color>
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="colorIconBig">#F8951E</color>
+    <color name="homeButtonTile" />
+    <color name="backButtonColor">#D8D8D8</color>
+    <color name="orange">#F68C1F</color>
+    <color name="hazard">#F04D22</color>
+    <color name="boarder_grey">#E0E0E0</color>
+    <color name="homeButtonTileTextDescription">#8C8C8C</color>
+    <color name="homeButtonTileTextTitle">#444444</color>
+</resources>
