@@ -2,6 +2,8 @@
     <string name="app_name">Kids Safety</string>
     <string name="titleEnglish">Kids Safety</string>
     <string name="facebook_app_id">461137141442443</string>
+    <string name="fb_login_protocol_scheme">fb461137141442443</string>
+
 
     <!--Home Screen Title-->
     <string name="titleSinhala">ළමා ආරක්ෂාව</string>
@@ -23,8 +25,8 @@
     <string name="connectToAppAlertTitle">Connect To App</string>
     <string name="cancel">CANCEL</string>
     <string name="ok">OK</string>
-    <string name="registerAppTitle">දරුවාගේ ආරක්ෂාව සඳහා</string>
-    <string name="registerAppMessage">මෙහි ඇතුලත් සියලු කරුණු කියවීම සඳහා සාමාජිකත්වය ලබාගන්න.</string>
+    <string name="registerAppTitle">සම්පුර්ණ විස්තරය කියවන්න</string>
+    <string name="registerAppMessage">මෙහි ඇතුලත් සියලු කරුණු කියවීම සඳහා සාමාජිකත්වය ලබාගන්න. සාමාජිකයින්ට ඇප් එක යාවත්කාලීන කරන විට හා විශේෂ පණිවිඩ දැනුම් දෙනු ලැබේ. දිනකට රුපියල් තුනක් සහ බදු අයවේ.</string>
     <string name="registerAppDescriptive">3+tx LKR/DAY</string>
     <string name="registerAppPositive">OK</string>
     <string name="registerAppNegative">NO</string>

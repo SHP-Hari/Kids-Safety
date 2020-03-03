@@ -116,7 +116,7 @@ public class SingleArticleActivity extends AppCompatActivity {
         TextView title = dialogView.findViewById(R.id.dialog_titile);
         TextView dialog_tv = dialogView.findViewById(R.id.dialog_tv);
         TextView dialog_descriptive = dialogView.findViewById(R.id.dialog_descriptive);
-        dialog_descriptive.setVisibility(View.VISIBLE);
+        dialog_descriptive.setVisibility(View.GONE);
 
         title.setText(R.string.registerAppTitle);
         dialog_tv.setText(R.string.registerAppMessage);
